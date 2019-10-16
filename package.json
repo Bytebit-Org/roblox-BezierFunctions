@@ -2,7 +2,7 @@
   "name": "@rbxts/roblox-BezierFunctions",
   "version": "1.0.0",
   "description": "",
-  "main": "out/index.lua",
+  "main": "out/init.lua",
   "types": "out/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
